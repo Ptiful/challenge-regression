@@ -8715,7 +8715,6 @@ id,building_type,building_subtype,price,living_area,frontages,bedrooms,bathrooms
 10549472,house,house,359000.0,152.0,3.0,3.0,1.0,None,1,None,2.0,None,0.0,0.0,None,None,None,None,1.0,None,Non flood zone,None,2235,Ramsel,Antwerp
 10327525,house,house,389000.0,191.0,4.0,4.0,1.0,30.0,None,None,2.0,None,0.0,1030.0,None,None,2,0,5.0,Gas,None,Isolated,3390,Tielt-Winge,Flemish Brabant
 10562412,house,house,465000.0,160.0,3.0,3.0,2.0,None,1,None,3.0,None,25.0,120.0,0,0,3,None,6.0,Gas,Non flood zone,None,8310,Sint-Kruis,West Flanders
-10561446,other-property,mixed-use-building,1200000.0,20630.0,4.0,None,None,None,None,None,None,None,0.0,0.0,None,None,3,None,1.0,Gas,Possible flood zone,Urban,3200,Gelrode,Flemish Brabant
 10547474,apartment,apartment,385000.0,82.0,None,2.0,1.0,None,3,None,1.0,1,6.0,0.0,1,None,2,0,6.0,Gas,None,Urban,2000,Antwerpen,Antwerp
 10547203,apartment,apartment,349000.0,185.0,None,3.0,2.0,None,1,1.0,2.0,1,19.0,0.0,1,None,3,None,5.0,Fuel oil,None,Urban,7500,Tournai,Hainaut
 10566284,house,house,164000.0,76.0,2.0,2.0,1.0,27.0,2,1.0,1.0,None,0.0,0.0,0,0,2,0,3.0,Gas,None,Urban,4000,Rocourt,Liège
